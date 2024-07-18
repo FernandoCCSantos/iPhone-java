@@ -10,6 +10,6 @@ Primeiro de tudo, criei três interfaces: **IPod**, **Telefone** e **NavegadorIn
 A classe **IPhone** implementa todos os métodos das três interfaces mencionadas acima, reunindo-as em um único objeto, ainda a ser instanciado. Já a classe **Usuario** serve apenas propósitos de ilustração, sendo através 
 dela que é instanciado de fato o objeto **IPhone** e seus métodos executados (como se fosse realmente um iPhone sendo utilizado por um usuário).
 
-- segue abaixo o diagrama de classes UML para a estrutura dos arquivos do projeto.
+- segue abaixo o diagrama de classes UML para a estrutura dos arquivos principais do projeto:
 
 ![iPhoneDiagram](https://github.com/user-attachments/assets/38df2d21-0241-46d7-bfec-cf91c0316d89)
