@@ -12,5 +12,4 @@ dela que é instanciado de fato o objeto **IPhone** e seus métodos executados (
 
 - segue abaixo o diagrama de classes UML para a estrutura dos arquivos do projeto.
 
-  
-
+![iPhoneDiagram](https://github.com/user-attachments/assets/38df2d21-0241-46d7-bfec-cf91c0316d89)
